@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AcaJones-786
-- 👀 I’m interested in learning wtf is going on in c#
-- 🌱 I’m currently studying software engineering
-- 💞️ I’m looking to collaborate on nothing, as right now I know nothing
+- 👋 Hi, my name is Ammaar Peerbhai
+- 🌱 I’m currently studying software engineering at Belgium Campus ITversity
+- 💞️ Just started working on my portfolio, feel free to have a look
 
 <!---
 AcaJones-786/AcaJones-786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
